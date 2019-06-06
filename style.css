@@ -1,0 +1,142 @@
+.text-border{
+    border: 2px solid #d9d9d9;
+    margin-left: 1px;
+}
+.count{
+    position: relative;
+    max-width: 100%;
+    margin: 0 auto;
+}
+.content {
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0); /* Fallback color */
+    background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+    color: #f1f1f1;
+    width: 100%;
+    text-align: right;
+    padding: 20px;
+  }
+.marg-bottom{
+    padding-bottom: 39px;
+}
+.text-size{
+font-size: 18;
+}
+.bottom-pad{
+    padding-top:35px;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.nav-pad{
+    
+}
+#imag-pad{
+    padding-top: -30px;
+    width: 100%;
+}
+/*
+#nav{
+    background-color: gray; 
+    width:101%;
+    height:8%;
+    text-align: center;
+    margin-left: -8px; 
+    margin-top: -8px;
+}/*
+.anchor{
+    text-decoration: none;
+    color: white;
+    padding: 30px;
+}*/
+#nav1{
+    background-color: blue; 
+    width:101%;
+    height: 13%;
+    margin-top: -16px;
+    margin-right: -20px;
+    margin-left: -8px; 
+}
+#remove{
+    text-decoration: none;
+}
+/*#flow{
+         list-style-type: none;
+           margin: 0;
+           padding: 0;
+           overflow: hidden;
+}*/
+.text-flow{
+    float: left;
+}
+#text-main{
+    margin-left: -9px; 
+}
+.img-width{
+    width: 40px;
+    height: 40px;
+}/*
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 35px;
+}
+li a:hover{
+    background-color: black;
+}
+/*
+.text-table{
+    width:60%; 
+    padding-left: 20%;
+}
+.text-row{
+    width:10%;
+    height: 20%;
+}
+.text-data{
+    width: 30%;
+}
+.tab{
+    width: 100%;
+}
+.row{
+    width: 25%;
+}
+.text-tab{
+    width:80%; 
+
+    padding-left: 20%;
+}
+.text-row1{
+    width:20%; 
+    height: 30%;
+}
+.text-data1{
+    width: 23%;
+}
+.text-table2{
+    width:80%;
+    padding-left: 20%;
+}
+.tab-row{
+    width:10%;
+    height: 20%;
+}
+.tab-d{
+    width: 23%;
+}*/
+.background-yellow{
+    background-color: orange !important;
+    margin-top: 1px !important;
+    color:white;
+}
+.background-grey{
+    background-color: #5c5c3d;
+    color:white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}

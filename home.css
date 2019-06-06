@@ -1,0 +1,24 @@
+.img-pad{
+    padding-top: -15px;
+}
+.back-color{
+    background-color: #d9d9d9;
+}
+.background-yellow{
+    background-color: orange;
+}
+.background-grey{
+    background-color: #5c5c3d;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+}
+.bottom-pad{
+    padding-top: 25px;
+}
+.font-white{
+    color: white;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}

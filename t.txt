@@ -1,0 +1,85 @@
+<nav class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>                        
+                        </button>
+                <a class="navbar-brand" href="#">EducationWorld</a>
+              </div>
+              <div class="collapse navbar-collapse" id="myNavbar">
+              <ul class="nav navbar-nav">
+                <li><a class="active" href="#">Home</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="#">AboutUs</a></li>
+                <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Course<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                      <li><a href="#">MBA</a></li>
+                      <li><a href="#">MEDICAL</a></li>
+                      <li><a href="#">ENGINEERING</a></li>
+                    </ul>
+                </li>
+              </ul>
+                <div class="input-group navbar-right">
+                  <input type="text" class="form-control" placeholder="Search" name="search">
+                </div>
+              </div>
+            </div>
+          </nav>
+
+           <div class="row col-sm-12 div-font background-yellow font-color-white"> 
+            <div class="col-sm-10 col-sm-offset-1 bottom-pad">
+                <div class="col-sm-4 ">
+                    <h3 class="page-header"><b>eINFO</b></h3>
+                    <p>eINFO is a guide to Ontario universities for Ontario high school students and guidance counsellors. It provides information about university programs, admission requirements and more. eINFO should be used as a starting point for researching university options.</p>
+                    <p>170 Research Lane Guelph ON N1G 5E2</p>
+                    <p>519-823-1063</p>
+                    <p>einfo@ouac.on.ca</p>
+                </div>
+                <div class="col-sm-4">
+                        <h3 class="page-header"><b>STUDENTS & PARENTS</b></h3>
+                        <p>Addenda (Program Changes)</p>
+                        <p>Common Course Codes</p>
+                        <p>Financial Support</p>
+                        <p>Frequently Asked Questions</p>
+                        <p>Glossary of Terms</p>
+                        <p>University Research Checklist</p>
+                        <p>Which Application is Right for Me?</p>
+                        <p>Aboriginal/Indigenous Students</p>
+                        <p>Accessibility for Students</p>
+                        <p>Winter and Spring Admission</p>
+                        <p>University Student Transition Resources</p>
+                        <p>Intend to Apply for OSAP?</p>
+                </div>
+                <div class="col-sm-4">
+                        <h3 class="page-header"><b>COUNSELLOR RESOURCES</b></h3>
+                        <p>Addenda (Program Changes)</p>
+                        <p>Campus Visits & Events</p>
+                        <p>Common Course Codes</p>
+                        <p>Contact the Universities</p>
+                        <p>Degree Abbreviations</p>
+                        <p>Frequently Asked Questions</p>
+                        <p>Glossary of Terms</p>
+                        <p>Printable PDFs of the Website</p>
+                </div>
+            </div>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div>
+            <img src="web1.png" width="100%" height="60%" id="imag-pad" alt="image is related to education">
+        </div><br

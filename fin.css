@@ -1,0 +1,16 @@
+.back-color{
+    background-color: #c2c2a3;
+}
+.background-yellow{
+    background-color: orange;
+    color: white;
+}
+.background-grey{
+    background-color:  #5c5c3d;
+    color:white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
